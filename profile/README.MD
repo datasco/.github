@@ -19,7 +19,7 @@
 - Инструменты
 
 ### Datasco API
-**Datasco API** – это [общедоступный REST API](https://docs.datasco.ru/docs), чтобы собирать как раз любые данные из любых сайтов, отправляя HTTP запросы на API.
+**Datasco API** – это [общедоступный REST API](https://docs.datasco.ru/docs/intro/), чтобы собирать как раз любые данные из любых сайтов, отправляя HTTP запросы на API.
 
 ### Datasco SDK
 **Datasco SDK** – это набор библиотек SDK, которые помогают легко в коде обращаться к API и собирать данные.
